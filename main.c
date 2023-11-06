@@ -16,4 +16,4 @@ printf("Valores dobrados: \n)");
 		}
 
 	return 0;
-}
+:}
